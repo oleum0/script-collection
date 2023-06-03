@@ -1,1 +1,1 @@
-###Archive for my scripts (im bad at bash)
+Archive for my scripts (im bad at bash)
