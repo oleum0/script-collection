@@ -1,6 +1,6 @@
 #!/bin/sh
 
-wall=$(ls ~/pix/walls/ | shuf -n 1)
+wall=$(ls ~/Pictures/walls/ | shuf -n 1)
 
-wal -i ~/pix/walls/$wall
-xwallpaper --zoom ~/pix/walls/$wall
+wal -i ~/Pictures/walls/$wall
+xwallpaper --zoom ~/Pictures/walls/$wall
