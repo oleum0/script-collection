@@ -2,5 +2,5 @@
 
 wall=$(ls ~/Pictures/walls/ | shuf -n 1)
 
+xwallpaper --clear
 wal -i ~/Pictures/walls/$wall
-xwallpaper --zoom ~/Pictures/walls/$wall
